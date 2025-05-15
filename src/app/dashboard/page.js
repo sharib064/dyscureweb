@@ -338,7 +338,7 @@ export default function Dashboard() {
 
           {results.length === 0 && !loading && (
             <div className="mt-8 text-center text-white">
-              No results found. Apply filters and click "Get Results".
+              No results found. Apply filters and click Get Results.
             </div>
           )}
         </div>
